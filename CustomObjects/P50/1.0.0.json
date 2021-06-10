@@ -1,0 +1,14 @@
+{
+  "Name": "FTW Arms P50",
+  "VersionNumber": "1.0.0",
+  "Description": "One of KelTeks latest "innovations" is now ready to perforate Sosigs! Included are the KelTek P50, the P50a (a machine pistol variant) as well as a stock-less pistol adapter, so that you can now use Meats Modular buffer tubes with any pistol you'd like!",
+  "ShortDescription": "The product of cocane",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/16HX4Qr.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/463/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NDQ1OWQ4MTFlZTI5YWI1NCsxMzY3KzE2MzA=",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+  "Dependencies": {
+    "h3vr.otherloader.deli": "0.2.0"
+  }
+}
