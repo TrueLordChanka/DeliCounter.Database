@@ -1,0 +1,14 @@
+{
+  "Name": "FTW Arms Edged Weapons Pack",
+  "VersionNumber": "1.0.0",
+  "Description": "Feel the need for some more variety in your stabbing adventures? Well here you go! A total of 24 Knives ready to fillet some Sosigs.",
+  "ShortDescription": "Stabby",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/lidc2CY.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/413/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=ZDliZWM0YjA5Yjc5MjgzYisxMzY3KzE1MTk=",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/legacy/LegacyVirtualObjects"],
+  "Dependencies": {
+    "h3vr.otherloader.deli": "0.2.0"
+  }
+}
