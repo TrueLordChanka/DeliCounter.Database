@@ -1,0 +1,14 @@
+{
+  "Name": "FTW Arms Micro Deagle",
+  "VersionNumber": "1.0.0",
+  "Description": "We've got 50AE, 44 Magnum, and 357 Magnum, but what about .380? If thats too big for your tastes, we have 5mm Bergman! ",
+  "ShortDescription": "Pew-Pew",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/rpa1qHE.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/479/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=NjhmODAzYzBmZmMzMzdkZCsxMzY3KzE2NTA=",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/Mods"],
+  "Dependencies": {
+    "h3vr.otherloader.deli": "0.2.0"
+  }
+}
