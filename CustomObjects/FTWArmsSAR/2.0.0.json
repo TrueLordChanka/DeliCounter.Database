@@ -1,0 +1,15 @@
+"Name": "Rust Sar",
+  "VersionNumber": "2.0.0",
+  "Description": "Be the bane of your neighborhood sosigs with the all-purpose and reliable Semi-Auto Rifle from Rust. You can save your components, because this puppy comes pre-crafted and chambered in 5.56x45, ready to down anyone, naked or geared, that crosses your path.
+Included are two versions: the original SAR, in all of it's rusty glory, and a super illegal Full Auto conversion (because who needs an AK or an LR anyway?). 
+Also included are two mag options, the standard 16-rounder and an extended 30-rounder for less reloads and more headshots, and the Handmade Sight, should you need fitting companion for this tool of sosig destruction!",
+  "ShortDescription": "Im Friendly",
+  "Authors": ["Andrew_FTW"],
+  "IconUrl": "https://i.imgur.com/JEW12J5.jpg",
+  "SourceUrl": "https://bonetome.com/h3vr/weapons/407/",
+  "DownloadUrl": "https://bonetome.com/download.php?file=MmQ5ZDJhMWRiYjE3ZTJjYSsxMzY3KzE0OTc=",
+  "InstallationSteps": ["extract $GAME_DIR/Deli/legacy/LegacyVirtualObjects"],
+  "Dependencies": {
+    "h3vr.otherloader.deli": "0.2.0"
+  }
+}
